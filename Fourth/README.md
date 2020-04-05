@@ -4,7 +4,7 @@
 
 ### 效果图
 
-<iframe height=500 width=500 src="todolist.gif">
+![avatar](todolist.gif)
 
 * 使用SCSS来修改样式
 * 使用bluma框架布局
